@@ -37,11 +37,11 @@ Max Depth 3: Train Accuracy = 0.9524, Test Accuracy = 1.0000
 <img width="653" height="547" alt="image" src="https://github.com/user-attachments/assets/d3975ddc-1b50-41a4-aa70-64ef5c2c74bb" />
 
 ## Confusion Matrix
-
+```
 [[19  0  0]
  [ 0 13  0]
  [ 0  0 13]]
-
+```
 ## Classification Report
 
 | Class       | Precision | Recall | F1-Score | Support |
